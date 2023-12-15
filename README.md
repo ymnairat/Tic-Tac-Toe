@@ -1,6 +1,6 @@
 # Dart Tic-Tac-Toe Game
 
-Welcome to the Dart Tic-Tac-Toe game! This console-based game allows two players to take turns making moves on a 3x3 grid until one player wins or the game ends in a draw.
+Welcome to the Dart Tic Tac Toe game! This console-based game allows two players to take turns making moves on a 3x3 grid until one player wins or the game ends in a draw.
 
 ## Prerequisites
 
@@ -11,13 +11,13 @@ Make sure you have Dart installed on your machine. If not, you can download it f
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/dart-tic-tac-toe.git
+    git clone https://github.com/ymnairat/Tic-Tac-Toe.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd dart-tic-tac-toe
+    cd Tic-Tac-Toe
     ```
 
 3. Run the Dart script:
@@ -51,7 +51,7 @@ Make sure you have Dart installed on your machine. If not, you can download it f
 ## Example Gameplay
 
 ```plaintext
-Welcome to Tic-Tac-Toe!
+Welcome to Tic Tac Toe!
 
   |   |  
 -----------
